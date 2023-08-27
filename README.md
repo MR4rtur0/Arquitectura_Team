@@ -17,7 +17,5 @@ Repositorio de Tareas para la asignatura "Arquitectura de Software"
 
 ### Miembro 3
 <img src="IMG_REP/Fer.jpg" width="200">
-![Fernando Villajuana Saavedra](IMG_REP/Fer.jpeg)
-
 - **Nombre**: Fernando Villajuana Saavedra
 
