@@ -4,23 +4,19 @@ Repositorio de Tareas para la asignatura "Arquitectura de Software"
 ## Miembros del Equipo
 
 ### Miembro 1
-
-![Arturo Andres Quezada Suarez](IMG_REP/Arturo.jpeg)
-
+<img src="IMG_REP/Arturo.jpeg" width="200">
 - **Nombre**: Arturo Andres Quezada Suarez
 
 ---
 
 ### Miembro 2
-
-![Francisco Ramos Aleman](IMG_REP/Fran.jpeg)
-
+<img src="IMG_REP/Fran.jpeg" width="200">
 - **Nombre**: Francisco Ramos Aleman
 
 ---
 
 ### Miembro 3
-
+<img src="IMG_REP/Fer.jpg" width="200">
 ![Fernando Villajuana Saavedra](IMG_REP/Fer.jpeg)
 
 - **Nombre**: Fernando Villajuana Saavedra
