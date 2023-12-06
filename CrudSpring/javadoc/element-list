@@ -1,0 +1,6 @@
+com.app.web
+com.app.web.controlador
+com.app.web.entidad
+com.app.web.exepciones
+com.app.web.repositorio
+com.app.web.servicio
